@@ -1,0 +1,11 @@
+sort1 uses: bubble sort.
+
+How do you know?: The largest number is already in the end of the sorted file. The sort1 is the second fast one.
+
+sort2 uses:merge sort.
+
+How do you know?:According to the running time of the sorted 5000, reversed 5000, and random 5000, sort2 is the fastest.
+
+sort3 uses:selection sort.
+
+How do you know?: The sort3 is the slowest.
